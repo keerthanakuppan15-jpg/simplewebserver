@@ -123,9 +123,10 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-05 211309.png>)
 
-![alt text](<Screenshot 2025-10-05 211424.png>)
+<img width="1272" height="675" alt="Screenshot 2025-10-07 154149" src="https://github.com/user-attachments/assets/d7a13555-8811-448d-b21c-66d8b511035a" />
+
+<img width="1275" height="275" alt="Screenshot 2025-10-07 154311" src="https://github.com/user-attachments/assets/d0789287-41ad-41d3-ad5d-9447ae57200d" />
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
